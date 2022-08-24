@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandramouli.
 - 👀 I’m interested in exploring things.
 - 🌱 I’m currently learning IT stuff.
-- 📫 How to reach me ...
+- 📫 Working with sql and Tknter
 
 <!---
 Chandramouli345/Chandramouli345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
