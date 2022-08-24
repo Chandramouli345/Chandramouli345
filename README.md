@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandramouli.
 - 👀 I’m interested in exploring things.
 - 🌱 I’m currently learning IT stuff.
-- Learnt python 
+- acomplished python,Unix 
 - 📫 Working with sql and Tkinter
 
 <!---
